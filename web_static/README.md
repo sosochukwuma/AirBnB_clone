@@ -1,7 +1,5 @@
-# Synopsis
+## AirBnB - Web Static
 
-Creating a static page to use later as a template for the Hbnb project.
+This directory implements webpage design.
 
-```8-index.html``` contains the temporary final result that looks like this:
-
-![Result](/web_static/images/Final.png)
+    - created a static page to use later as a template for the hBnB project.
